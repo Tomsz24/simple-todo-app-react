@@ -1,3 +1,34 @@
+# Simple To Do App in React
+This is very simple to do app hope you enjoy!!! :smiley:
+
+## How to use
+All you have to do is write your task and press button
+[write task](src/img/First.PNG)
+
+You can hide all done tasks or also you can make all your task done
+[managing tasks](src/img/Second.PNG)
+
+You can also remove task by one click in red button. To make task done press green button
+[done or remove task](scr/img/Third.PNG)
+
+
+## This is how app looks
+[simple to do app](scr/img/Fourth.PNG)
+
+
+## Demo
+[simple to do app](https://tomsz24.github.io/simple-todo-app-react/)
+
+## Technologies 
+
+- HTML
+- JavaScript
+- React(CRA)
+- Styled Components
+- Local Storage
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -37,32 +68,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
