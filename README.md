@@ -3,17 +3,17 @@ This is very simple to do app hope you enjoy!!! :smiley:
 
 ## How to use
 All you have to do is write your task and press button
-[write task](src/img/First.PNG)
+![creating task](src/img/Firs.PNG)
 
-You can hide all done tasks or also you can make all your task done
-[managing tasks](src/img/Second.PNG)
+You can manage your task by hiding all done task all make all task done
+![managing tasks](src/img/Second.PNG)
 
 You can also remove task by one click in red button. To make task done press green button
-[done or remove task](scr/img/Third.PNG)
+![done or remove task](scr/img/Third.PNG)
 
 
 ## This is how app looks
-[simple to do app](scr/img/Fourth.PNG)
+![simple to do app](scr/img/Fourth.PNG)
 
 
 ## Demo
