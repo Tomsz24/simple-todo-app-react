@@ -9,11 +9,11 @@ You can manage your task by hiding all done task all make all task done
 ![managing tasks](src/img/Second.PNG)
 
 You can also remove task by one click in red button. To make task done press green button
-![done or remove task](scr/img/Third.PNG)
+![done or remove task](src/img/Third.PNG)
 
 
 ## This is how app looks
-![simple to do app](scr/img/Fourth.PNG)
+![simple to do app](src/img/Fourth.PNG)
 
 
 ## Demo
