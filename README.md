@@ -3,7 +3,7 @@ This is very simple to do app hope you enjoy!!! :smiley:
 
 ## How to use
 All you have to do is write your task and press button
-![creating task](src/img/Firs.PNG)
+![creating task](src/img/First.PNG)
 
 You can manage your task by hiding all done task all make all task done
 ![managing tasks](src/img/Second.PNG)
